@@ -4,8 +4,10 @@ Welcome to the **Car Dekho Sales Analysis** repository! This repository is dedic
 
 ## Repository Contents:
 - **Dataset:** The Car Dekho dataset, containing information on car models, selling prices, fuel types, mileage, engine specifications, and more.
-- **Results:** Key findings and insights derived from the analysis, presented in an easy-to-understand format.
-- **Visualizations:** Graphs, charts, and dashboards created to visualize the trends in the dataset.
+- **Excel and Google Sheets Analysis:** The dataset was processed using Excel and Google Sheets, where initial data cleaning and exploration were performed.
+- **KPI Creation:** Key Performance Indicators (KPIs) were defined to measure and evaluate critical aspects of the car sales data.
+- **SQL Queries:** The KPIs were solved by writing SQL queries, providing insights into various aspects of the data such as sales trends, popular car models, and price factors.
+- **Visualizations:** The results of the KPIs were visualized using Looker Studio (Google Data Studio) to create interactive dashboards that present the findings in an easy-to-understand format.
 
 ## Key Analysis Areas:
 - Factors influencing car prices
@@ -20,3 +22,4 @@ Welcome to the **Car Dekho Sales Analysis** repository! This repository is dedic
 - Looker Studio (Google Data Studio)
 - Git/GitHub
 
+Feel free to explore the analysis, and don't hesitate to reach out if you have any questions or feedback!
